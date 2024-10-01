@@ -1,26 +1,42 @@
-# Jan Ki Baat - Nadella Demo
-## Deadline: Jan 31, 2024
+# Jan Ki Baat: AI-Driven Citizen Feedback Platform
 
-### Grand narrative:
-What if you as a citizen and a recipient of a specific government service has access to a single phone number that you can ring up and give feedback?
-What if you could get your government to be as responsive to your needs as amazon?
+## Introduction
+**Jan Ki Baat (JKB)** is an initiative by **People+AI** designed to revolutionize how governments and organizations gather real-time feedback from citizens. By leveraging **AI-powered voice bots**, JKB enables large-scale, authentic feedback collection, empowering decision-makers with actionable, data-driven insights.
 
-### Secondary narrative:
-What if a minister/Permanent Secretary can spin up a direct user research program on the fly instead of going through his/her chain of command?
-There is a massive machinery between the people who think up policies and the citizens who benefit from it. This machinery functions top-down, broadcast one-way. What if this mechanism could have good, current, detailed feedback from the people it is supposed to help? This is Jan ki Baat
-Imagine being able to “Listen to your customers/citizens” at scale.
+## The Problem
+Governments and organizations today face a significant challenge: understanding the true needs and concerns of citizens. Traditional feedback mechanisms are costly, slow, and often distorted by intermediaries. This leaves a critical gap in how policies are informed and services are improved, especially in rural and underserved areas.
 
-### Holy Grail Demo:
-_Consumer/Household survey to measure household well-being in India_
-- The consumer pyramids household survey is an entirely qualitative interview process to estimate income, expense, employment patterns of 1M+ people in India https://consumerpyramidsdx.cmie.com/
-- The questionnaire is constructed in English. The English construction is straight forward because the questions seek factual information. However, the final interview is conducted in the local dialect and this necessitates a conversational interview. A translation into the principal local languages of India is useful only upto a point. The stated constructs are rarely read out. They are interpreted and explained to the principal respondent.
+- **What if you**, as a citizen, had a single phone number to directly share feedback about public services?
+- **What if your government** could respond to your needs as efficiently as companies like Amazon?
+- **What if decision-makers** could instantly launch real-time user research programs without being bogged down by bureaucracy?
 
-### First Cut Demo: Deadline: Dec 29
-Can we build a simple and fun listening bot which works like a decent journalist asking fans _what went wrong with India’s cricket world cup campaign_?
+Currently, public services are disconnected from the people they serve, relying on outdated and filtered information. This creates a gap in trust and understanding, particularly for rural communities.
 
-### We want to learn and accomplish:
-- How to design a bot that’s engaging, empathetic and asks intuitive follow up questions based on the user’s answers
-- Infrastructure to understand and categorise a variety of emotional responses. [e.g. Some people being angry. Some being sympathetic. Some being neutral]
-- Infrastructure to simulate a variety of responses and prepare a neat dashboard with charts and all
-- Low latency, streamed responses/questions from the bot itself, including TTS and ASR.
-- English only, for now.
+## The Solution
+**Jan Ki Baat** offers a simple, scalable, and cost-effective solution to this disconnect. By enabling citizens to provide real-time feedback through phone calls, JKB bridges the gap between policy-makers and the public, transforming how governments listen and respond.
+
+- **Single Access Point**: A single phone number allows citizens to share feedback about public services.
+- **AI-Powered Conversations**: Using AI voice bots, we enable natural conversations in multiple languages, making the system accessible to citizens from all walks of life.
+- **Real-Time Insights**: Feedback is instantly processed and analyzed, allowing governments to act quickly on citizen needs.
+- **Scalable & Inclusive**: This approach enables large-scale feedback collection, reaching even the most remote communities in their local languages, ensuring their voices are heard.
+
+---
+
+## Cohort Information
+**Jan Ki Baat** launched its first experimental cohort, partnering with **12 organizations** and **8 technology platforms**. This pilot tested the feasibility of large-scale feedback collection across different use cases, such as:
+
+- Identifying beneficiaries for government schemes like old-age pensions.
+- Assessing the impact of monsoon floods in regions like Assam.
+- Verifying the satisfaction levels of beneficiaries of programs like Ayushman Bharat.
+- Understanding user behavior in Tier 2/3 cities for mobile commerce providers.
+
+### Key Highlights from the Cohort:
+- **12 Organizations** were selected from **40 applications** (Non-profit: 5, For-profit: 7).
+- **1000+ Calls** were made, gathering real-time feedback across diverse use cases.
+- **8 Infrastructure Providers** were onboarded to deliver multilingual capabilities.
+- **Insights**: The pilot revealed critical learnings about language support, technology challenges, and best practices to increase call success rates, especially in Hindi and English.
+
+### Next Steps for the Cohort:
+- Focus on scaling to reach **1 million calls** across multiple languages.
+- Partner with state governments to integrate **JKB** into public service delivery.
+- Continue refining the AI system to support more regional dialects and improve user engagement.
