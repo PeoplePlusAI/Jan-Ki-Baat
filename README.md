@@ -50,8 +50,8 @@ Currently, public services are disconnected from the people they serve, relying 
 ## Live Demo
 We’ve set up a live demo so you can experience **Jan Ki Baat** in action.
 
-### Call Us
-📞 **+91 8035735561**
+### Call Us  
+📱 **+91 8035735561**
 
 Give us a call and interact with our AI-powered voice bot to see how the system works in real-time.
 
@@ -60,5 +60,5 @@ Give us a call and interact with our AI-powered voice bot to see how the system 
 ## Demo Video
 We’ve also included a short video demo to showcase how **Jan Ki Baat** functions and its real-world impact.
 
-[![Watch the Demo Video](https://img.icons8.com/clouds/100/000000/video.png)](https://drive.google.com/file/d/14TP1GBbdv8ysoplDwfwasDbXmuE8WBAJ/view?usp=sharing)  
+[![Watch the Demo Video](https://img.icons8.com/color/96/youtube-play.png)](https://drive.google.com/file/d/14TP1GBbdv8ysoplDwfwasDbXmuE8WBAJ/view?usp=sharing)  
 (*Click on the icon above to watch the demo on Google Drive.*)
