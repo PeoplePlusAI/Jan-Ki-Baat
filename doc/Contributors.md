@@ -1,13 +1,45 @@
-> List of all individuals and orgs that have contributed to this groups work.
+# Contributors to Jan Ki Baat
 
-# Contributors
-> List of members currently contributing to the groups work.
+## Introduction
+The Jan Ki Baat project, spearheaded by People+AI, owes its success to a diverse group of contributors ranging from individual volunteers to technology providers. This document recognizes their invaluable efforts and contributions.
 
-# Shoutouts
-> Shoutout to members for executing/ delivering specific major breakthroughs/ delvierables.
+## Key Contributors
 
-# Alumni
-> List of members who have contributed to the groups work in the past.
+- Tanuj Bhojwani
+- Neha Gupta
+- Abhishek Kumar
+- Nishank Gupta
+- Rajat Pipelewar
+- Palash Kala
+- Shivani
+- Muniraju Puliyalam
+- Aswin Bhupalam
+- Shekhar Gaikwad
 
-# Supporters
-> List of indidivudals and orgs who we've consulted with/ spoken to to shape the thinking and work of this group. Includes orgs consulted, experts spoken to etc.
+## Partner Organizations
+
+### Technology Providers
+- **AWS**
+  - Provided 10,000 call credits, supporting hosting and scaling the project.
+- **Infer.so, Reverie.ic, Desivocals, Sarvam.ai, dialflo, Smallest.ai**
+  - These organizations have provided diverse Voice AI Agent services, crucial for the multilingual capabilities of Jan Ki Baat, aiding participants in refining and executing their use cases.
+
+### Collaborating Institutions
+- **Arghyam, National Health Authority, Haqdarshak, Glance, Cityflow, Samagra, and Seeds India**
+  - These organizations have actively participated in scaling the Jan Ki Baat use case across their products and services, providing valuable feedback and use case scenarios.
+
+## Acknowledgements
+
+### Organizations for Field Testing and Feedback
+- The following organizations participated in the initial and ongoing testing phases, providing real-world environments and feedback which were critical for iterative improvements:
+  - Infer.so
+  - Reverie.ic
+  - Desivocals
+  - Sarvam.ai
+  - dialflo
+  - Smallest.ai
+
+
+## Conclusion
+
+The collective effort of all these individuals and organizations has made Jan Ki Baat a pioneering platform in AI-driven citizen feedback collection. We are immensely grateful to each contributor for their dedication and believe that their continued support will propel Jan Ki Baat to greater heights.
