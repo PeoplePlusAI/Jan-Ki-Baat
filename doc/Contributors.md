@@ -16,31 +16,24 @@ The Jan Ki Baat project, spearheaded by People+AI, owes its success to a diverse
 - Muniraju Puliyalam
 - Shivani
 
-
-
 ## Partner Organizations
 
 ### Technology Providers
 - **AWS**
   - Provided 10,000 call credits, supporting hosting and scaling the project.
-- **Infer.so, Reverie.ic, Desivocals, Sarvam.ai, dialflo, Smallest.ai**
-  - These organizations have provided diverse Voice AI Agent services, crucial for the multilingual capabilities of Jan Ki Baat, aiding participants in refining and executing their use cases.
-
-### Collaborating Institutions
-- **Arghyam, National Health Authority, Haqdarshak, Glance, Cityflow, Samagra, and Seeds India**
-  - These organizations have actively participated in scaling the Jan Ki Baat use case across their products and services, providing valuable feedback and use case scenarios.
-
-## Acknowledgements
 
 ### Organizations for Field Testing and Feedback
-- The following organizations participated in the initial and ongoing testing phases, providing real-world environments and feedback which were critical for iterative improvements:
-  - Infer.so
+- - Infer.so
   - Reverie.ic
   - Desivocals
   - Sarvam.ai
   - dialflo
   - Smallest.ai
+  - These organizations have provided diverse Voice AI Agent services, crucial for the multilingual capabilities of Jan Ki Baat, aiding participants in refining and executing their use cases.
 
+### Collaborating Institutions
+- **BCG, Meesho, Samagra, Seeds India, Arghyam, National Health Authority, Haqdarshak, Glance, Cityflow**
+  - These organizations have actively participated in scaling the Jan Ki Baat use case across their products and services, providing valuable feedback and use case scenarios.
 
 ## Conclusion
 
