@@ -93,7 +93,7 @@ Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and
 All project-related documents are available in the [doc/](doc/) folder.  
 Here are some key resources:
 
-- [Charter Document](doc/Charter.md)
+- [Cohort Charter Document](doc/Charter.md)
 - [Timeline](doc/Timeline.md)
 - [Contributor Guidelines](doc/Contributors.md)
 
