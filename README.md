@@ -1,6 +1,6 @@
 # Jan Ki Baat: AI-Driven Citizen Feedback Platform
 
-![Jan Ki Baat Logo](media/Jan%20की%20Baat-2%20(1).svg)
+![Jan Ki Baat Logo](media/Jan%20की%20Baat-2.png)
 
 ---
 
@@ -30,6 +30,22 @@ Currently, public services are disconnected from the people they serve, relying 
 
 ---
 
+## Demo Video
+Watch the demo video below to experience **Jan Ki Baat** in action:
+
+<video width="640" height="360" controls>
+  <source src="media/JKB%20Demo%20V2.0%20(1).mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</video>
+
+---
+
+## Live Demo
+📱 **+91 8035735561**  
+Call us to interact with our AI-powered voice bot and explore how the system works in real-time.
+
+---
+
 ## Cohort Information
 **Jan Ki Baat** launched its first experimental cohort, partnering with **12 organizations** and **8 technology platforms**. This pilot tested the feasibility of large-scale feedback collection across different use cases, such as:
 
@@ -48,23 +64,6 @@ Currently, public services are disconnected from the people they serve, relying 
 - Focus on scaling to reach **1 million calls** across multiple languages.
 - Partner with state governments to integrate **JKB** into public service delivery.
 - Continue refining the AI system to support more regional dialects and improve user engagement.
-
----
-
-## Live Demo
-We’ve set up a live demo so you can experience **Jan Ki Baat** in action.
-
-### Call Us  
-📱 **+91 8035735561**  
-Give us a call and interact with our AI-powered voice bot to see how the system works in real-time.
-
----
-
-## Demo Video
-We’ve also included a short video demo to showcase how **Jan Ki Baat** functions and its real-world impact.
-
-[![Watch the Demo Video](https://img.icons8.com/color/96/youtube-play.png)](https://drive.google.com/file/d/14TP1GBbdv8ysoplDwfwasDbXmuE8WBAJ/view?usp=sharing)  
-(*Click on the icon above to watch the demo on Google Drive.*)
 
 ---
 
