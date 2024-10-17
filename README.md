@@ -9,6 +9,19 @@
 
 ---
 
+## Demo Video
+
+[![Watch the Demo Video](https://img.icons8.com/color/96/youtube-play.png)](https://drive.google.com/file/d/14TP1GBbdv8ysoplDwfwasDbXmuE8WBAJ/view?usp=sharing)  
+*Click the icon above to watch the demo on Google Drive.*
+
+---
+
+## Live Demo
+📱 **+91 8035735561**  
+Call us to interact with our AI-powered voice bot and explore how the system works in real-time.
+
+---
+
 ## The Problem
 Governments and organizations today face a significant challenge: understanding the true needs and concerns of citizens. Traditional feedback mechanisms are costly, slow, and often distorted by intermediaries. This leaves a critical gap in how policies are informed and services are improved, especially in rural and underserved areas.
 
@@ -27,24 +40,6 @@ Currently, public services are disconnected from the people they serve, relying 
 - **AI-Powered Conversations**: Using AI voice bots, we enable natural conversations in multiple languages, making the system accessible to citizens from all walks of life.
 - **Real-Time Insights**: Feedback is instantly processed and analyzed, allowing governments to act quickly on citizen needs.
 - **Scalable & Inclusive**: This approach enables large-scale feedback collection, reaching even the most remote communities in their local languages, ensuring their voices are heard.
-
----
-
-## Demo Video
-Watch the demo video below to experience **Jan Ki Baat** in action:
-
-<video width="640" height="360" controls>
-  <source src="media/JKB%20Demo%20V2.0%20(1).mp4" type="video/mp4">
-  Your browser does not support the video tag. 
-  <a href="media/JKB%20Demo%20V2.0%20(1).mp4">Download the video here</a>.
-</video>
-
-
----
-
-## Live Demo
-📱 **+91 8035735561**  
-Call us to interact with our AI-powered voice bot and explore how the system works in real-time.
 
 ---
 
