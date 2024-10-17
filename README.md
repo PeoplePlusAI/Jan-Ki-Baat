@@ -13,6 +13,8 @@
 - [The Solution](#the-solution)
 - [Cohort Information](#cohort-information)
 - [Volunteer with Us](#volunteer-with-us)
+- [About Us](#about-us)
+- [Documentation](#documentation)
 
 ---
 
@@ -86,6 +88,12 @@ Governments and organizations today face a significant challenge: understanding 
 We are looking for passionate individuals to join the **Jan Ki Baat** initiative in various capacities, including product managers and volunteers. If you are interested in contributing beyond code—by helping manage projects, organizing pilots, or providing strategic input—this is your chance to make a significant impact.
 
 Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select **Jan Ki Baat** as your project of interest. Your contributions can greatly improve public service delivery across India.
+
+## About Us
+
+If you have any queries or new ideas regarding this project, please create an issue in this repository. Let's have a discussion!
+
+For other queries, please reach out to [Shekhar@peopleplus.ai](mailto:Shekhar@peopleplus.ai) or [Aswin@peopleplus.ai](mailto:Aswin@peopleplus.ai).
 
 
 ## Documentation
