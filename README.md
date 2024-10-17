@@ -13,9 +13,8 @@
 - [The Solution](#the-solution)
 - [Cohort Information](#cohort-information)
 - [How to Contribute](#how-to-contribute)
-- [Issues](#issues)
 - [Volunteer with Us](#volunteer-with-us)
-- [Documentation](#documentation)
+-
 
 ---
 
@@ -86,21 +85,23 @@ Governments and organizations today face a significant challenge: understanding 
 
 ## How to Contribute 🤝
 
-We welcome contributions to **Jan Ki Baat**! Here’s how you can get involved:
+We welcome contributions to **Jan Ki Baat**! Here are two ways you can get involved:
+
+### 1. Clone the Repository
 
 1. **Fork the Repository:**  
-   Click on the **Fork** button at the top-right corner of this page.
+   Click the **Fork** button at the top-right corner of this page.
 
 2. **Clone the Repository:**  
    ```bash
    git clone https://github.com/PeoplePlusAI/Jan-Ki-Baat.git
    cd Jan-Ki-Baat
+### 2. Join as a Product Manager or Volunteer
 
+We are also looking for **product managers** to work with our cohort participant organizations and help us build pilots for those organizations.
 
-## Issues
+If you are interested in contributing beyond code, such as by helping manage projects, organizing pilots, or providing strategic input, please fill out the [volunteer form](https://peopleplus.ai/volunteer) and select **Jan Ki Baat** as your project of interest.
 
-If you encounter any issues with the project or have feature requests, please create a new issue using our [issue template](.github/ISSUE_TEMPLATE.md).  
-Provide as much detail as possible to help us understand and address the issue efficiently.
 
 ---
 
@@ -121,8 +122,6 @@ Here are some key resources:
 - [Timeline](doc/Timeline.md)  
 - [Contributor Guidelines](doc/Contributors.md)  
 
-For more detailed documentation, please visit:  
-[Project Documentation]()
 
 ---
 
