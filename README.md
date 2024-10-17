@@ -12,7 +12,6 @@
 - [The Problem](#the-problem)
 - [The Solution](#the-solution)
 - [Cohort Information](#cohort-information)
-- [How to Contribute](#how-to-contribute)
 - [Volunteer with Us](#volunteer-with-us)
 
 ---
@@ -82,30 +81,12 @@ Governments and organizations today face a significant challenge: understanding 
 
 ---
 
-## How to Contribute 🤝
-
-We welcome contributions to **Jan Ki Baat**! Here are two ways you can get involved:
-
-### 1. Clone the Repository
-
-1. **Fork the Repository:**  
-   Click the **Fork** button at the top-right corner of this page.
-
-2. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/PeoplePlusAI/Jan-Ki-Baat.git
-   cd Jan-Ki-Baat
-## Join as a Product Manager or Volunteer
-
-We are also looking for product managers to work with our cohort participant organizations and help us build pilots for those organizations.
-
-If you are interested in contributing beyond code, such as by helping manage projects, organizing pilots, or providing strategic input, please fill out the [volunteer form](https://peopleplus.ai/volunteer) and select **Jan Ki Baat** as your project of interest.
-
 ## Volunteer with Us
 
-Want to be part of the **Jan Ki Baat** initiative?  
-Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select the **Jan Ki Baat** project.  
-Your contributions can make a significant impact on improving public service delivery across India.
+We are looking for passionate individuals to join the **Jan Ki Baat** initiative in various capacities, including product managers and volunteers. If you are interested in contributing beyond code—by helping manage projects, organizing pilots, or providing strategic input—this is your chance to make a significant impact.
+
+Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select **Jan Ki Baat** as your project of interest. Your contributions can greatly improve public service delivery across India.
+
 
 ## Documentation
 
