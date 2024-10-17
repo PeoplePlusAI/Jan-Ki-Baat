@@ -12,7 +12,7 @@
 ## Demo Video
 
 [![Watch the Demo Video](https://img.icons8.com/color/96/youtube-play.png)](https://drive.google.com/file/d/14TP1GBbdv8ysoplDwfwasDbXmuE8WBAJ/view?usp=sharing)  
-*Click the icon above to watch the demo on Google Drive.*
+*Click the icon above to watch the demo video.*
 
 ---
 
