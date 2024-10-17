@@ -95,3 +95,36 @@ We welcome contributions to **Jan Ki Baat**! Here’s how you can get involved:
    ```bash
    git clone https://github.com/PeoplePlusAI/Jan-Ki-Baat.git
    cd Jan-Ki-Baat
+
+
+## Issues
+
+If you encounter any issues with the project or have feature requests, please create a new issue using our [issue template](.github/ISSUE_TEMPLATE.md).  
+Provide as much detail as possible to help us understand and address the issue efficiently.
+
+---
+
+## Volunteer with Us
+
+Want to be part of the **Jan Ki Baat** initiative?  
+Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select the Jan Ki Baat project.  
+Your contributions can make a significant impact on improving public service delivery across India.
+
+---
+
+## Documentation
+
+All project-related documents are available in the [doc/](doc/) folder.  
+Here are some key resources:
+
+- [Charter Document](doc/Charter.md)  
+- [Timeline](doc/Timeline.md)  
+- [Contributor Guidelines](doc/Contributors.md)  
+
+For more detailed documentation, please visit:  
+[Project Documentation](https://docs.google.com/document/d/1H8-oJmMy0r28kYup9vqt8VGDlY_cCFW_2M07XJxWpFU/edit?usp=sharing)
+
+---
+
+“Made for 🇮🇳 with ❤️ by People+AI”
+
