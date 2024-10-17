@@ -6,15 +6,17 @@ The Jan Ki Baat project, spearheaded by People+AI, owes its success to a diverse
 ## Key Contributors
 
 - Tanuj Bhojwani
+- Shekhar Gaikwad
+- Aswin Bhupalam
 - Neha Gupta
 - Abhishek Kumar
 - Nishank Gupta
 - Rajat Pipelewar
 - Palash Kala
-- Shivani
 - Muniraju Puliyalam
-- Aswin Bhupalam
-- Shekhar Gaikwad
+- Shivani
+
+
 
 ## Partner Organizations
 
