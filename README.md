@@ -1,5 +1,9 @@
 # Jan Ki Baat: AI-Driven Citizen Feedback Platform
 
+![Jan Ki Baat Logo](media/Jan%20की%20Baat-2%20(1).svg)
+
+---
+
 ## Introduction
 **Jan Ki Baat (JKB)** is an initiative by **People+AI** designed to revolutionize how governments and organizations gather real-time feedback from citizens. By leveraging **AI-powered voice bots**, JKB enables large-scale, authentic feedback collection, empowering decision-makers with actionable, data-driven insights.
 
@@ -51,8 +55,7 @@ Currently, public services are disconnected from the people they serve, relying 
 We’ve set up a live demo so you can experience **Jan Ki Baat** in action.
 
 ### Call Us  
-📱 **+91 8035735561**
-
+📱 **+91 8035735561**  
 Give us a call and interact with our AI-powered voice bot to see how the system works in real-time.
 
 ---
@@ -62,3 +65,15 @@ We’ve also included a short video demo to showcase how **Jan Ki Baat** functio
 
 [![Watch the Demo Video](https://img.icons8.com/color/96/youtube-play.png)](https://drive.google.com/file/d/14TP1GBbdv8ysoplDwfwasDbXmuE8WBAJ/view?usp=sharing)  
 (*Click on the icon above to watch the demo on Google Drive.*)
+
+---
+
+## How to Contribute 🤝
+
+1. **Fork the Repository:**  
+   Click on the **Fork** button to create your own copy.
+
+2. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/PeoplePlusAI/Jan-Ki-Baat.git
+   cd Jan-Ki-Baat
