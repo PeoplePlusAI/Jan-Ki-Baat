@@ -122,7 +122,7 @@ Here are some key resources:
 - [Contributor Guidelines](doc/Contributors.md)  
 
 For more detailed documentation, please visit:  
-[Project Documentation](https://docs.google.com/document/d/1H8-oJmMy0r28kYup9vqt8VGDlY_cCFW_2M07XJxWpFU/edit?usp=sharing)
+[Project Documentation]()
 
 ---
 
