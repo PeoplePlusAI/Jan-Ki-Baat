@@ -34,9 +34,11 @@ Currently, public services are disconnected from the people they serve, relying 
 Watch the demo video below to experience **Jan Ki Baat** in action:
 
 <video width="640" height="360" controls>
-  <source src="media/JKB%20Demo%20V2.0%20(1).mp3" type="audio/mp3">
-  Your browser does not support the audio tag.
+  <source src="media/JKB%20Demo%20V2.0%20(1).mp4" type="video/mp4">
+  Your browser does not support the video tag. 
+  <a href="media/JKB%20Demo%20V2.0%20(1).mp4">Download the video here</a>.
 </video>
+
 
 ---
 
