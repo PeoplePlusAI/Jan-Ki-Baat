@@ -1,3 +1,5 @@
+how to contribute
+
 # Jan Ki Baat: AI-Driven Citizen Feedback Platform
 
 ![Jan Ki Baat Logo](media/Jan%20की%20Baat-2.png)
@@ -14,7 +16,6 @@
 - [Cohort Information](#cohort-information)
 - [How to Contribute](#how-to-contribute)
 - [Volunteer with Us](#volunteer-with-us)
--
 
 ---
 
@@ -96,34 +97,27 @@ We welcome contributions to **Jan Ki Baat**! Here are two ways you can get invol
    ```bash
    git clone https://github.com/PeoplePlusAI/Jan-Ki-Baat.git
    cd Jan-Ki-Baat
-### 2. Join as a Product Manager or Volunteer
+## Join as a Product Manager or Volunteer
 
-We are also looking for **product managers** to work with our cohort participant organizations and help us build pilots for those organizations.
+We are also looking for product managers to work with our cohort participant organizations and help us build pilots for those organizations.
 
 If you are interested in contributing beyond code, such as by helping manage projects, organizing pilots, or providing strategic input, please fill out the [volunteer form](https://peopleplus.ai/volunteer) and select **Jan Ki Baat** as your project of interest.
-
-
----
 
 ## Volunteer with Us
 
 Want to be part of the **Jan Ki Baat** initiative?  
-Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select the Jan Ki Baat project.  
+Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select the **Jan Ki Baat** project.  
 Your contributions can make a significant impact on improving public service delivery across India.
-
----
 
 ## Documentation
 
 All project-related documents are available in the [doc/](doc/) folder.  
 Here are some key resources:
 
-- [Charter Document](doc/Charter.md)  
-- [Timeline](doc/Timeline.md)  
-- [Contributor Guidelines](doc/Contributors.md)  
-
+- [Charter Document](doc/Charter.md)
+- [Timeline](doc/Timeline.md)
+- [Contributor Guidelines](doc/Contributors.md)
 
 ---
 
 “Made for 🇮🇳 with ❤️ by People+AI”
-
