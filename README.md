@@ -1,5 +1,3 @@
-how to contribute
-
 # Jan Ki Baat: AI-Driven Citizen Feedback Platform
 
 ![Jan Ki Baat Logo](media/Jan%20की%20Baat-2.png)
