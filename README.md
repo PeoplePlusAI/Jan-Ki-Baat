@@ -83,9 +83,9 @@ Governments and organizations today face a significant challenge: understanding 
 
 ## Volunteer with Us
 
-We are looking for passionate individuals to join the **Jan Ki Baat** initiative in various capacities, including product managers and volunteers. If you are interested in contributing beyond code—by helping manage projects, organizing pilots, or providing strategic input—this is your chance to make a significant impact.
+We are looking for passionate individuals to join the **JKB** initiative in various capacities, including product managers and volunteers. If you are interested in contributing beyond code—by helping manage projects, organizing pilots, or providing strategic input—this is your chance to make a significant impact.
 
-Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select **Jan Ki Baat** as your project of interest. Your contributions can greatly improve public service delivery across India.
+Join us by filling out the [volunteer form](https://peopleplus.ai/volunteer) and select **JKB** as your project of interest. Your contributions can greatly improve public service delivery across India.
 
 ## About Us
 
