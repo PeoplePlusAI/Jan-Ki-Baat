@@ -20,7 +20,7 @@
 
 ## Introduction
 
-**Jan Ki Baat (JKB)** is an initiative by **People+AI** designed to revolutionize how governments and organizations gather real-time feedback from citizens. By leveraging **AI-powered voice bots**, JKB enables large-scale, authentic feedback collection, empowering decision-makers with actionable, data-driven insights.
+**JKB** is an initiative by **People+AI** designed to revolutionize how governments and organizations gather real-time feedback from citizens. By leveraging **AI-powered voice bots**, JKB enables large-scale, authentic feedback collection, empowering decision-makers with actionable, data-driven insights.
 
 ---
 
@@ -50,7 +50,7 @@ Governments and organizations today face a significant challenge: understanding 
 
 ## The Solution
 
-**Jan Ki Baat** offers a simple, scalable, and cost-effective solution to this disconnect. By enabling citizens to provide real-time feedback through phone calls, JKB bridges the gap between policy-makers and the public, transforming how governments listen and respond.
+**JKB** offers a simple, scalable, and cost-effective solution to this disconnect. By enabling citizens to provide real-time feedback through phone calls, JKB bridges the gap between policy-makers and the public, transforming how governments listen and respond.
 
 - **Single Access Point**: A single phone number allows citizens to share feedback about public services.
 - **AI-Powered Conversations**: Using AI voice bots, we enable natural conversations in multiple languages, making the system accessible to citizens from all walks of life.
@@ -61,7 +61,7 @@ Governments and organizations today face a significant challenge: understanding 
 
 ## Cohort Information
 
-**Jan Ki Baat** launched its first experimental cohort, partnering with **12 organizations** and **8 technology platforms**. This pilot tested the feasibility of large-scale feedback collection across different use cases, such as:
+**JKB** launched its first experimental cohort, partnering with **12 organizations** and **8 technology platforms**. This pilot tested the feasibility of large-scale feedback collection across different use cases, such as:
 
 - Identifying beneficiaries for government schemes like old-age pensions.
 - Assessing the impact of monsoon floods in regions like Assam.
